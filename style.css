@@ -1,0 +1,24 @@
+body {
+    color: rgb(216, 214, 226);
+    font-family: cursive;
+}
+.heading {
+    width: 80%;
+    font-size: 20px;
+    font-family: cursive;
+    color: darkblue;
+}
+.name_of_objects, #result_object_name, #result_object_accuracy {
+    color: rgb(237, 233, 240);
+    font-size: larger;
+}
+#camera {
+    border: 2px dashed rgb(222, 222, 228);
+    width: 350px;
+    height: 350px;
+}
+#mainscreen {
+    background: url("bgnew.jpg");
+    background-repeat: no-repeat;
+    background-size: 1100px 1100px;
+  }
